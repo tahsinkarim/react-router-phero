@@ -1,0 +1,14 @@
+.user {
+  border: 2px solid #1e2b47;
+  margin: 16px;
+  border-radius: 8px;
+}
+.btn {
+  padding: 7px 24px;
+  margin: 16px;
+  font-weight: 500;
+  border-radius: 8px;
+  border: none;
+  background-color: cornflowerblue;
+  color: #fff;
+}
